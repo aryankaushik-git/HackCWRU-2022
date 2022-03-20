@@ -22,7 +22,7 @@
 
 .layer1_class {
     border: 16px solid #f3f3f3; /* Light grey */
-    border-top: 10px solid #048023; /* Dark Green */
+    border-top: 7px solid #0e3172; /* Dark Green */
     border-radius: 50%;
     width: 120px;
     height: 120px;
@@ -148,7 +148,7 @@
     background: #f8f9fa;
   }
   #logoname{
-    margin-left: -110px;
+    margin-left: -180px;
     margin-top: -3px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
